@@ -10,7 +10,7 @@ import com.opencsv.CSVReader;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class testDataCSV {
+public class testData {
 
 	static WebDriver driver;
 	
