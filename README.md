@@ -53,7 +53,7 @@ Uses Apache POI for reading Excel data
 🚀 How to Run
 Clone the repository:
 
-git clone https://github.com/your-username/data-driven-testing.git
+git clone https://github.com/Haripriya28-m/DATA-DRIVEN-TESTING.git
 Open the project in your preferred IDE (e.g., IntelliJ or Eclipse).
 
 Add necessary libraries (Selenium, Apache POI, TestNG/JUnit) via pom.xml or manually.
