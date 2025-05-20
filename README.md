@@ -4,7 +4,7 @@
 
 *NAME*: HARIPRIYA M
 
-*INTERN ID*: 
+*INTERN ID*: CT08WN211
 
 *DOMAIN*: AUTOMATION TESTING
 
@@ -68,3 +68,5 @@ testuser1	pass123
 invaliduser	wrongpass
 demoUser	demo@123
 
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/7a0d1db4-5582-49c2-812e-1b56c9476628)
