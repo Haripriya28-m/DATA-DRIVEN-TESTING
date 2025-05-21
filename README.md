@@ -1,4 +1,4 @@
-# DATA-DRIVEN-TESTING
+## DATA-DRIVEN-TESTING
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
@@ -12,11 +12,11 @@
 
 *MENTOR*: NEELA SANTOSH
 
-🧪 Data-Driven Testing Using Selenium & Apache POI
-📌 Project Overview
+## 🧪 Data-Driven Testing Using Selenium & Apache POI
+## 📌 Project Overview
 This project demonstrates data-driven testing using Selenium WebDriver with Java. The test script automates the login process for a web application by reading multiple sets of test data (usernames and passwords) from an Excel file. This approach helps in efficiently testing various input combinations without modifying the test code.
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 Programming Language: Java
 
 Automation Framework: Selenium WebDriver
@@ -27,7 +27,7 @@ Excel Handling Library: Apache POI
 
 Build Tool: Maven (if used)
 
-🗂️ Project Structure
+## 🗂️ Project Structure
 
 data-driven-testing/
 │
@@ -41,7 +41,7 @@ data-driven-testing/
 ├── pom.xml                          # Maven dependencies (if used)
 ├── README.md                        # Project documentation
 └── .gitignore                       # Ignored files/folders
-📋 Features
+## 📋 Features
 Reads login credentials from an Excel sheet
 
 Iterates through each row of data to perform automated login
@@ -50,7 +50,7 @@ Validates login success or failure
 
 Uses Apache POI for reading Excel data
 
-🚀 How to Run
+## 🚀 How to Run
 Clone the repository:
 
 git clone https://github.com/Haripriya28-m/DATA-DRIVEN-TESTING.git
@@ -62,11 +62,11 @@ Place the Excel file (LoginData.xlsx) inside the testdata folder.
 
 Run the LoginTest.java class as a TestNG or JUnit test.
 
-📎 Sample Test Data
+## 📎 Sample Test Data
 Username	Password
 testuser1	pass123
 invaliduser	wrongpass
 demoUser	demo@123
 
-# OUTPUT
+## OUTPUT
 ![Image](https://github.com/user-attachments/assets/372d7511-a529-4941-af86-428fd5680dcc)
